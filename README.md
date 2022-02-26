@@ -2,7 +2,7 @@
 
 ### My name is Ivaylo. 
 
-- 💻 Senior software engineer with background in finance & economics
+- 💻 Software engineering team lead with background in finance & economics
 - 📡 Focus on distributed systems and web technologies. 
 - 📽 Makes YouTube videos & blogs about latest technologies. 
 - 📚 Teaches programming & finance 
@@ -16,6 +16,8 @@
 ### YouTube Channel : [https://www.youtube.com/user/ivailop](https://www.youtube.com/user/ivailop)
 
 ### Blog : [https://www.ivaylopavlov.com](https://www.ivaylopavlov.com)
+
+### Linkedin : [Profile](https://www.linkedin.com/in/ivaylo-pavlov-cfa-frm-imc-cfte-86699734/)
 
 
 <!--
