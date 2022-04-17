@@ -4,6 +4,7 @@
 
 - 💻 Software engineering team leader with background in finance & economics
 - 📡 Focus on distributed systems and web technologies. 
+- 🏆 Chartered Financial Analyst (CFA)
 - 📽 Makes YouTube videos & blogs about latest technologies. 
 - 📚 Teaches programming & finance 
 - 🏌️‍ Plays golf and table tennis. 
