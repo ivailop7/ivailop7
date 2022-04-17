@@ -2,7 +2,7 @@
 
 ### My name is Ivaylo. 
 
-- 💻 Software engineering team lead with background in finance & economics
+- 💻 Software engineering team leader with background in finance & economics
 - 📡 Focus on distributed systems and web technologies. 
 - 📽 Makes YouTube videos & blogs about latest technologies. 
 - 📚 Teaches programming & finance 
