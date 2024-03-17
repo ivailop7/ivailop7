@@ -4,9 +4,10 @@
 
 - 💻 Software engineering team leader with background in finance & economics
 - 📡 Focus on distributed systems and web technologies. 
+- 📝 Core maintainer for [LexicalJS](https://github.com/facebook/lexical)
 - 🏆 Chartered Financial Analyst (CFA)
+- 📚 Teaches programming & finance
 - 📽 Makes YouTube videos & blogs about latest technologies. 
-- 📚 Teaches programming & finance 
 - 🏌️‍ Plays golf and table tennis. 
 - ☕ Weakness is good coffee. 
 - 📍 Based in London, United Kingdom
