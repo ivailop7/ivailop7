@@ -4,12 +4,11 @@
 
 - 💻 Software engineering team leader with background in finance & economics
 - 📡 Focus on distributed systems and web technologies. 
-- 📝 Core maintainer for [LexicalJS](https://github.com/facebook/lexical)
+- 📝 Core maintainer for [Lexical](https://github.com/facebook/lexical)
 - 🏆 Chartered Financial Analyst (CFA)
 - 📚 Teaches programming & finance
 - 📽 Makes YouTube videos & blogs about latest technologies. 
 - 🏌️‍ Plays golf and table tennis. 
-- ☕ Weakness is good coffee. 
 - 📍 Based in London, United Kingdom
 - 💬 You can reach me on [Twitter](https://twitter.com/ivailop)
 
