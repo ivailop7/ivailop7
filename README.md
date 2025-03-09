@@ -10,7 +10,7 @@
 - 📽 Makes YouTube videos & blogs about latest technologies. 
 - 🏌️‍ Plays golf and table tennis. 
 - 📍 Based in London, United Kingdom
-- 💬 You can reach me on [Twitter](https://twitter.com/ivailop)
+- 💬 You can reach me on [X](https://x.com/ivailop)
 
 ### Full CV Timeline : [timeline.ivaylopavlov.com](https://timeline.ivaylopavlov.com)
 
